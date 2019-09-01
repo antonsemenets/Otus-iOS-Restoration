@@ -12,6 +12,10 @@
 		CB754F37231C54820066530B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB754F35231C54820066530B /* Main.storyboard */; };
 		CB754F39231C54830066530B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB754F38231C54830066530B /* Assets.xcassets */; };
 		CB754F3C231C54830066530B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB754F3A231C54830066530B /* LaunchScreen.storyboard */; };
+		CB754F45231C59E60066530B /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB754F44231C59E60066530B /* CustomButton.swift */; };
+		CB754F49231C5BEF0066530B /* Second.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB754F47231C5BEF0066530B /* Second.storyboard */; };
+		CB754F4B231C5C2D0066530B /* ComponentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB754F4A231C5C2D0066530B /* ComponentView.swift */; };
+		CB754F4D231C5C990066530B /* ComponentView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB754F4C231C5C990066530B /* ComponentView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		CB754F38231C54830066530B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB754F3B231C54830066530B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB754F3D231C54830066530B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB754F44231C59E60066530B /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		CB754F48231C5BEF0066530B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = UIStoryboard/Base.lproj/Second.storyboard; sourceTree = "<group>"; };
+		CB754F4A231C5C2D0066530B /* ComponentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComponentView.swift; sourceTree = "<group>"; };
+		CB754F4C231C5C990066530B /* ComponentView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ComponentView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +62,26 @@
 		CB754F30231C54820066530B /* UIStoryboard */ = {
 			isa = PBXGroup;
 			children = (
+				CB754F3A231C54830066530B /* LaunchScreen.storyboard */,
+				CB754F35231C54820066530B /* Main.storyboard */,
+				CB754F47231C5BEF0066530B /* Second.storyboard */,
+				CB754F46231C5AB10066530B /* UI */,
 				CB754F31231C54820066530B /* AppDelegate.swift */,
 				CB754F33231C54820066530B /* ViewController.swift */,
-				CB754F35231C54820066530B /* Main.storyboard */,
 				CB754F38231C54830066530B /* Assets.xcassets */,
-				CB754F3A231C54830066530B /* LaunchScreen.storyboard */,
 				CB754F3D231C54830066530B /* Info.plist */,
 			);
 			path = UIStoryboard;
+			sourceTree = "<group>";
+		};
+		CB754F46231C5AB10066530B /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				CB754F44231C59E60066530B /* CustomButton.swift */,
+				CB754F4A231C5C2D0066530B /* ComponentView.swift */,
+				CB754F4C231C5C990066530B /* ComponentView.xib */,
+			);
+			path = UI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +142,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB754F49231C5BEF0066530B /* Second.storyboard in Resources */,
 				CB754F3C231C54830066530B /* LaunchScreen.storyboard in Resources */,
 				CB754F39231C54830066530B /* Assets.xcassets in Resources */,
 				CB754F37231C54820066530B /* Main.storyboard in Resources */,
+				CB754F4D231C5C990066530B /* ComponentView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +157,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB754F4B231C5C2D0066530B /* ComponentView.swift in Sources */,
 				CB754F34231C54820066530B /* ViewController.swift in Sources */,
 				CB754F32231C54820066530B /* AppDelegate.swift in Sources */,
+				CB754F45231C59E60066530B /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,6 +181,14 @@
 				CB754F3B231C54830066530B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		CB754F47231C5BEF0066530B /* Second.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CB754F48231C5BEF0066530B /* Base */,
+			);
+			name = Second.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
