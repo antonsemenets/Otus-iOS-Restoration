@@ -1,0 +1,361 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ComponentView"
+provides-nominal:
+- "11Restoration13ComponentViewC"
+provides-member:
+- ["11Restoration13ComponentViewC", ""]
+provides-dynamic-lookup:
+- "bgColor"
+- "prepareForInterfaceBuilder"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "Bundle"
+- "CGRect"
+- "CastingPrecedence"
+- "ComponentView"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- !private "StringLiteralType"
+- "UIColor"
+- "UIView"
+depends-member:
+- !private ["Sa", "subscript"]
+- !private ["SK", "subscript"]
+- !private ["So8NSBundleC", "loadNibNamed"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So15CALayerDelegateP", "Bundle"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "bgColor"]
+- !private ["So15CALayerDelegateP", "configure"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "prepareForInterfaceBuilder"]
+- !private ["s7CVarArgP", "Bundle"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "bgColor"]
+- !private ["s7CVarArgP", "configure"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "loadNibNamed"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "prepareForInterfaceBuilder"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "subscript"]
+- !private ["11Restoration13ComponentViewC", "Bundle"]
+- ["11Restoration13ComponentViewC", "CGRect"]
+- ["11Restoration13ComponentViewC", "NSCoder"]
+- ["11Restoration13ComponentViewC", "UIColor"]
+- !private ["11Restoration13ComponentViewC", "UIView"]
+- !private ["11Restoration13ComponentViewC", "addSubview"]
+- !private ["11Restoration13ComponentViewC", "backgroundColor"]
+- ["11Restoration13ComponentViewC", "bgColor"]
+- ["11Restoration13ComponentViewC", "configure"]
+- ["11Restoration13ComponentViewC", "deinit"]
+- ["11Restoration13ComponentViewC", "init"]
+- ["11Restoration13ComponentViewC", "prepareForInterfaceBuilder"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "bgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "configure"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "loadNibNamed"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "prepareForInterfaceBuilder"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "bgColor"]
+- !private ["s23CustomStringConvertibleP", "configure"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "loadNibNamed"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "prepareForInterfaceBuilder"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "subscript"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "Bundle"]
+- ["SQ", ""]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "bgColor"]
+- !private ["SQ", "configure"]
+- !private ["SQ", "init"]
+- !private ["SQ", "loadNibNamed"]
+- !private ["SQ", "main"]
+- !private ["SQ", "prepareForInterfaceBuilder"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["SH", "Bundle"]
+- ["SH", ""]
+- !private ["SH", "addSubview"]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "bgColor"]
+- !private ["SH", "configure"]
+- !private ["SH", "init"]
+- !private ["SH", "loadNibNamed"]
+- !private ["SH", "main"]
+- !private ["SH", "prepareForInterfaceBuilder"]
+- !private ["SH", "subscript"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "Bundle"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "bgColor"]
+- !private ["So8NSCodingP", "configure"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "prepareForInterfaceBuilder"]
+- !private ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "bgColor"]
+- ["So8NSObjectC", "configure"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "loadNibNamed"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "prepareForInterfaceBuilder"]
+- !private ["So8NSObjectP", "Bundle"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "bgColor"]
+- !private ["So8NSObjectP", "configure"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "loadNibNamed"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "prepareForInterfaceBuilder"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "subscript"]
+- !private ["So29UIAccessibilityIdentificationP", "Bundle"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "bgColor"]
+- !private ["So29UIAccessibilityIdentificationP", "configure"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "prepareForInterfaceBuilder"]
+- !private ["So12UIAppearanceP", "Bundle"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "bgColor"]
+- !private ["So12UIAppearanceP", "configure"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "prepareForInterfaceBuilder"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "bgColor"]
+- !private ["So21UIAppearanceContainerP", "configure"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "prepareForInterfaceBuilder"]
+- !private ["So17UICoordinateSpaceP", "Bundle"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "bgColor"]
+- !private ["So17UICoordinateSpaceP", "configure"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "prepareForInterfaceBuilder"]
+- !private ["So13UIDynamicItemP", "Bundle"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "bgColor"]
+- !private ["So13UIDynamicItemP", "configure"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "prepareForInterfaceBuilder"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "bgColor"]
+- !private ["So18UIFocusEnvironmentP", "configure"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "prepareForInterfaceBuilder"]
+- !private ["So11UIFocusItemP", "Bundle"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "bgColor"]
+- !private ["So11UIFocusItemP", "configure"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "prepareForInterfaceBuilder"]
+- !private ["So20UIFocusItemContainerP", "Bundle"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- !private ["So20UIFocusItemContainerP", "bgColor"]
+- !private ["So20UIFocusItemContainerP", "configure"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "prepareForInterfaceBuilder"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bgColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "configure"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "prepareForInterfaceBuilder"]
+- !private ["So11UIResponderC", "Bundle"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "bgColor"]
+- ["So11UIResponderC", "configure"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "prepareForInterfaceBuilder"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "bgColor"]
+- !private ["So30UIResponderStandardEditActionsP", "configure"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "prepareForInterfaceBuilder"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "bgColor"]
+- !private ["So18UITraitEnvironmentP", "configure"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "prepareForInterfaceBuilder"]
+- !private ["So23UIUserActivityRestoringP", "Bundle"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- !private ["So23UIUserActivityRestoringP", "bgColor"]
+- !private ["So23UIUserActivityRestoringP", "configure"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "prepareForInterfaceBuilder"]
+- !private ["So6UIViewC", "Bundle"]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "NSCoder"]
+- ["So6UIViewC", "UIColor"]
+- !private ["So6UIViewC", "UIView"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "backgroundColor"]
+- ["So6UIViewC", "bgColor"]
+- ["So6UIViewC", "configure"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "prepareForInterfaceBuilder"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configure"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadNibNamed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prepareForInterfaceBuilder"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "Bundle"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bgColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "configure"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "prepareForInterfaceBuilder"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So8NSBundleC"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- "11Restoration13ComponentViewC"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "31fa695423f3028d335a6df28bf57950"

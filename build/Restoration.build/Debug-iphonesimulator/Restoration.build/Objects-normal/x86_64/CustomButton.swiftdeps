@@ -1,0 +1,332 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ColorButton"
+provides-nominal:
+- "11Restoration11ColorButtonC"
+provides-member:
+- ["11Restoration11ColorButtonC", ""]
+provides-dynamic-lookup:
+- "bgColor"
+- "cornerRadius"
+- "tntColor"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGFloat"
+- "ColorButton"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "UIButton"
+- "UIColor"
+depends-member:
+- !private ["So7CALayerC", "cornerRadius"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "bgColor"]
+- !private ["So15CALayerDelegateP", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "tintColor"]
+- !private ["So15CALayerDelegateP", "tntColor"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "bgColor"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "tintColor"]
+- !private ["s7CVarArgP", "tntColor"]
+- ["11Restoration11ColorButtonC", "CGFloat"]
+- ["11Restoration11ColorButtonC", "UIColor"]
+- !private ["11Restoration11ColorButtonC", "backgroundColor"]
+- ["11Restoration11ColorButtonC", "bgColor"]
+- ["11Restoration11ColorButtonC", "cornerRadius"]
+- ["11Restoration11ColorButtonC", "deinit"]
+- ["11Restoration11ColorButtonC", "init"]
+- !private ["11Restoration11ColorButtonC", "layer"]
+- !private ["11Restoration11ColorButtonC", "tintColor"]
+- ["11Restoration11ColorButtonC", "tntColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "bgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "tintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "tntColor"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "bgColor"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "tintColor"]
+- !private ["s23CustomStringConvertibleP", "tntColor"]
+- ["SQ", ""]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "bgColor"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "init"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "tintColor"]
+- !private ["SQ", "tntColor"]
+- ["SH", ""]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "bgColor"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "init"]
+- !private ["SH", "layer"]
+- !private ["SH", "tintColor"]
+- !private ["SH", "tntColor"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "bgColor"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "tintColor"]
+- !private ["So8NSCodingP", "tntColor"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "bgColor"]
+- ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "tintColor"]
+- ["So8NSObjectC", "tntColor"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "bgColor"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "tintColor"]
+- !private ["So8NSObjectP", "tntColor"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "backgroundColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "bgColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "cornerRadius"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "tintColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "tntColor"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "bgColor"]
+- !private ["So29UIAccessibilityIdentificationP", "cornerRadius"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "tintColor"]
+- !private ["So29UIAccessibilityIdentificationP", "tntColor"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "bgColor"]
+- !private ["So12UIAppearanceP", "cornerRadius"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "tintColor"]
+- !private ["So12UIAppearanceP", "tntColor"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "bgColor"]
+- !private ["So21UIAppearanceContainerP", "cornerRadius"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "tntColor"]
+- ["So8UIButtonC", "CGFloat"]
+- ["So8UIButtonC", "UIColor"]
+- ["So8UIButtonC", ""]
+- !private ["So8UIButtonC", "backgroundColor"]
+- ["So8UIButtonC", "bgColor"]
+- ["So8UIButtonC", "cornerRadius"]
+- ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "layer"]
+- !private ["So8UIButtonC", "tintColor"]
+- ["So8UIButtonC", "tntColor"]
+- ["So9UIControlC", "CGFloat"]
+- ["So9UIControlC", "UIColor"]
+- !private ["So9UIControlC", "backgroundColor"]
+- ["So9UIControlC", "bgColor"]
+- ["So9UIControlC", "cornerRadius"]
+- ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So9UIControlC", "tintColor"]
+- ["So9UIControlC", "tntColor"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "bgColor"]
+- !private ["So17UICoordinateSpaceP", "cornerRadius"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "tintColor"]
+- !private ["So17UICoordinateSpaceP", "tntColor"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "bgColor"]
+- !private ["So13UIDynamicItemP", "cornerRadius"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "tintColor"]
+- !private ["So13UIDynamicItemP", "tntColor"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "bgColor"]
+- !private ["So18UIFocusEnvironmentP", "cornerRadius"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "tintColor"]
+- !private ["So18UIFocusEnvironmentP", "tntColor"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "bgColor"]
+- !private ["So11UIFocusItemP", "cornerRadius"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "tintColor"]
+- !private ["So11UIFocusItemP", "tntColor"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- !private ["So20UIFocusItemContainerP", "bgColor"]
+- !private ["So20UIFocusItemContainerP", "cornerRadius"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "tintColor"]
+- !private ["So20UIFocusItemContainerP", "tntColor"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bgColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "cornerRadius"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "tintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "tntColor"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "bgColor"]
+- ["So11UIResponderC", "cornerRadius"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So11UIResponderC", "tintColor"]
+- ["So11UIResponderC", "tntColor"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "bgColor"]
+- !private ["So30UIResponderStandardEditActionsP", "cornerRadius"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "tintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "tntColor"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "backgroundColor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "bgColor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cornerRadius"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "tintColor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "tntColor"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "bgColor"]
+- !private ["So18UITraitEnvironmentP", "cornerRadius"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "tintColor"]
+- !private ["So18UITraitEnvironmentP", "tntColor"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- !private ["So23UIUserActivityRestoringP", "bgColor"]
+- !private ["So23UIUserActivityRestoringP", "cornerRadius"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "tintColor"]
+- !private ["So23UIUserActivityRestoringP", "tntColor"]
+- ["So6UIViewC", "CGFloat"]
+- ["So6UIViewC", "UIColor"]
+- !private ["So6UIViewC", "backgroundColor"]
+- ["So6UIViewC", "bgColor"]
+- ["So6UIViewC", "cornerRadius"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "tintColor"]
+- ["So6UIViewC", "tntColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tntColor"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bgColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "cornerRadius"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "tintColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "tntColor"]
+depends-nominal:
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "11Restoration11ColorButtonC"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c979631599d24a68d5fee8272d606d85"

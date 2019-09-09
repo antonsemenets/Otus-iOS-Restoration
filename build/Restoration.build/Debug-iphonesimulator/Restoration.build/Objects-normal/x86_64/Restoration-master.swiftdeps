@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "cfc0783eb2527337e5434bb65e36b8f1"
+build_time: [1568016751, 301331000]
+inputs:
+  "/Users/antonsemenec/Developer/UIStoryboard/Restoration/UI/ComponentView.swift": [1567368382, 843487397]
+  "/Users/antonsemenec/Developer/UIStoryboard/Restoration/ViewController.swift": [1567366402, 56888406]
+  "/Users/antonsemenec/Developer/UIStoryboard/Restoration/AppDelegate.swift": [1567366402, 44105848]
+  "/Users/antonsemenec/Developer/UIStoryboard/Restoration/UI/CustomButton.swift": [1567368024, 62041807]
